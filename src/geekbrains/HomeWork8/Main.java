@@ -34,6 +34,5 @@ public class Main {
             System.out.println(asterisk);
         }
         System.out.println("Поздравляю!!! Вы угадали слово!!!");
-
     }
 }

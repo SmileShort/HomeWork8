@@ -30,7 +30,6 @@ public class MyWindow extends JFrame {
         panel.add(btn2);
 
         add(panel, BorderLayout.SOUTH); // добавляем панель "panel" на Юг онка
-
     }
 
 }
